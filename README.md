@@ -10,5 +10,3 @@ Useful ipython notebooks:
 Dependencies:
   NLTK==2.0.4
   scikit-learn==0.14.1
-
-
